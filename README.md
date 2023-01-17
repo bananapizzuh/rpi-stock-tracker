@@ -1,3 +1,5 @@
+I just found out that the site-maintainer has made a script that is more functional than this. [the repo](https://github.com/camerahacks/rpilocator-rss-feed)
+
 # RPI Stock Tracker
 A python script to email you when there's an update to the [rpilocator rss feed](rpilocator.com). You must schedule and run the script yourself.
 
